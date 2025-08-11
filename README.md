@@ -1,3 +1,9 @@
+# 📊 AtliQ Hardware P&L Report 
+
+This repository contains my Excel-based **Profit & Loss (P&L) Report** project for **AtliQ Hardware**.
+
+---
+
 ## Sales Report :
 
 
